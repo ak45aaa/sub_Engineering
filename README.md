@@ -1,4 +1,4 @@
-<h4>sub_engineering</h4>
+<h2>sub_engineering</h2>
 <h6>공학일반 수행</h6>
 <p>강화학습함 </br>
     1. Q_learning </br>
