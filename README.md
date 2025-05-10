@@ -1,2 +1,6 @@
-# sub_Engineering
-공학일반수행
+<h4>sub_engineering</h4>
+<h6>공학일반 수행</h6>
+<p>강화학습함 </br>
+    1. Q_learning </br>
+    2. PPO </br>
+    3. tensorflow model 경량화 </br> </p>
