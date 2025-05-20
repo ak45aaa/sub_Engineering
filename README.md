@@ -4,3 +4,4 @@
     1. Actor-critic </br>
     2. PPO </br>
     3. tensorflow model 경량화 </br> </p>
+![Uploading actor_critic_경량화후 (1).gif…]()
